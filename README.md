@@ -2,4 +2,4 @@
 
 made the frontend landing page for netflix
 
-live url -- https://dappy-d.github.io/-2019-netflix-landing-page/
+live url -- https://dapper-d.github.io/-2019-netflix-landing-page/
